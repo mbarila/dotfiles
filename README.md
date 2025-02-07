@@ -1,4 +1,4 @@
-🚀 My Dotfiles
+## 🚀 My Dotfiles
 
 This repository contains my personal dotfiles for configuring a fast, efficient, and minimal development environment on Linux. With these files, I set up my configurations for **Git**, **Bash**, **Tmux**, **Neovim**, and more, ensuring consistency across different machines and systems.
 
@@ -9,7 +9,7 @@ Included configurations:
 - **Neovim**: A fully configured Neovim setup with Lua for plugins, keymaps, settings, and more.
 - **Perl Script**: An **ASCII Aquarium** that displays animated fish in your terminal for a fun, decorative touch.
 
-🛠 **Dependencies**
+### 🛠 **Dependencies**
 
 Ensure the following tools are installed for everything to work as expected:
 
@@ -31,11 +31,11 @@ Ensure the following tools are installed for everything to work as expected:
 6. 🌐 **Bun**  
    A fast, modern JavaScript/TypeScript bundler and runtime for web development, providing a high-performance alternative to Node.js.
 
-⚡ **Installation**
+### ⚡ **Installation**
 
 To set up these dotfiles on a new system:
 
-    git clone https://github.com/mbarila/dotfiles.git ~/dotfiles
+    git clone git@github.com:mbarila/dotfiles.git ~/dotfiles
     cd ~/dotfiles
     bash install.sh
 

@@ -35,7 +35,7 @@ Ensure the following tools are installed for everything to work as expected:
 
 To set up these dotfiles on a new system:
 
-    git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
+    git clone https://github.com/mbarila/dotfiles.git ~/dotfiles
     cd ~/dotfiles
     bash install.sh
 

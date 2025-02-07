@@ -1,0 +1,9 @@
+[user]
+	email = barilamatija08@gmail.com
+	name = Matija Barila
+[push]
+	autoSetupRemote = true
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main

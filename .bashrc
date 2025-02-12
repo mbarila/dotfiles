@@ -27,3 +27,8 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 # starship init last command
 eval "$(starship init bash)"
+
+# todo on terminal open because i forget stuff
+echo -e "\033[91m################################################### TODO ####################################################\033[0m"
+echo -e "\033[93m PLACEHOLDER \033[0m"
+echo -e "\033[92m#############################################################################################################\033[0m"

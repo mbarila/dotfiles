@@ -7,3 +7,13 @@
 	rebase = false
 [init]
 	defaultBranch = main
+[alias]
+    lol = log --oneline --decorate
+    graph = log --oneline --graph --decorate
+[grep]
+    lineNumber = true
+    patternType = perl
+[merge]
+    conflictstyle = diff3
+[rerere]
+    enabled = true
